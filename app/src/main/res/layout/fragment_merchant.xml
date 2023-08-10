@@ -44,7 +44,7 @@
                 android:layout_height="match_parent">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
-                    android:id="@+id/constraintLayout1"
+                    android:id="@+id/constraintLayout9"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -73,7 +73,7 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="34dp"
                             android:gravity="left"
-                            android:text="SGT University"
+                            android:text="Ramesh Constructions And Bu..."
                             android:textStyle="bold"
                             android:textAlignment="gravity"
                             android:textColor="#10334e"
@@ -85,13 +85,13 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="60dp"
                             android:gravity="left"
-                            android:text="Gurugram, within 35 KM"
+                            android:text="Hyderabad, within 22.5 KM"
                             android:textAlignment="gravity"
                             android:textSize="16dp"
                             android:textColor="#436377" />
 
                         <ProgressBar
-                            android:id="@+id/progressBar"
+                            android:id="@+id/progressBar89"
                             style="?android:attr/progressBarStyleHorizontal"
                             android:layout_width="100dp"
                             android:layout_height="15dp"
@@ -119,7 +119,7 @@
                             android:textColor="#436377" />
 
                         <ImageView
-                            android:id="@+id/imageView4"
+                            android:id="@+id/imageView89"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/user"
@@ -128,7 +128,7 @@
                             android:layout_marginTop="25dp"/>
 
                         <ImageView
-                            android:id="@+id/imageView5"
+                            android:id="@+id/imageView88"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/phone_call"
@@ -137,7 +137,7 @@
                             android:layout_marginTop="25dp"/>
 
                         <ImageView
-                            android:id="@+id/imageView6"
+                            android:id="@+id/imageView87"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/locator"
@@ -157,13 +157,13 @@
                     app:cardBackgroundColor="#b8c5cd"
                     app:cardElevation="10dp"
                     app:cardCornerRadius="15dp"
-                    app:layout_constraintStart_toStartOf="@+id/constraintLayout1"
+                    app:layout_constraintStart_toStartOf="@+id/constraintLayout9"
                     app:layout_constraintTop_toTopOf="parent">
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="SU"
+                        android:text="RB"
                         android:layout_gravity="center"
                         android:textSize="28dp"
                         android:textStyle="bold"
@@ -175,7 +175,7 @@
                 android:layout_height="match_parent">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
-                    android:id="@+id/constraintLayout1"
+                    android:id="@+id/constraintLayout10"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -204,7 +204,7 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="34dp"
                             android:gravity="left"
-                            android:text="ABC"
+                            android:text="Jt Cab Service"
                             android:textStyle="bold"
                             android:textAlignment="gravity"
                             android:textColor="#10334e"
@@ -216,13 +216,13 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="60dp"
                             android:gravity="left"
-                            android:text="Noida, within 35 KM"
+                            android:text="Hyderabad, within 23 KM"
                             android:textAlignment="gravity"
                             android:textSize="16dp"
                             android:textColor="#436377" />
 
                         <ProgressBar
-                            android:id="@+id/progressBar"
+                            android:id="@+id/progressBar88"
                             style="?android:attr/progressBarStyleHorizontal"
                             android:layout_width="100dp"
                             android:layout_height="15dp"
@@ -250,7 +250,7 @@
                             android:textColor="#436377" />
 
                         <ImageView
-                            android:id="@+id/imageView4"
+                            android:id="@+id/imageView79"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/user"
@@ -259,7 +259,7 @@
                             android:layout_marginTop="25dp"/>
 
                         <ImageView
-                            android:id="@+id/imageView5"
+                            android:id="@+id/imageView78"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/phone_call"
@@ -268,7 +268,7 @@
                             android:layout_marginTop="25dp"/>
 
                         <ImageView
-                            android:id="@+id/imageView6"
+                            android:id="@+id/imageView77"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/locator"
@@ -288,13 +288,13 @@
                     app:cardBackgroundColor="#b8c5cd"
                     app:cardElevation="10dp"
                     app:cardCornerRadius="15dp"
-                    app:layout_constraintStart_toStartOf="@+id/constraintLayout1"
+                    app:layout_constraintStart_toStartOf="@+id/constraintLayout10"
                     app:layout_constraintTop_toTopOf="parent">
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="A"
+                        android:text="JS"
                         android:layout_gravity="center"
                         android:textSize="28dp"
                         android:textStyle="bold"
@@ -306,7 +306,7 @@
                 android:layout_height="match_parent">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
-                    android:id="@+id/constraintLayout1"
+                    android:id="@+id/constraintLayout11"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -335,7 +335,7 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="34dp"
                             android:gravity="left"
-                            android:text="LPU University"
+                            android:text="KL University"
                             android:textStyle="bold"
                             android:textAlignment="gravity"
                             android:textColor="#10334e"
@@ -347,13 +347,13 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="60dp"
                             android:gravity="left"
-                            android:text="Gurugram, within 35 KM"
+                            android:text="Aziznagar, within 23.1 KM"
                             android:textAlignment="gravity"
                             android:textSize="16dp"
                             android:textColor="#436377" />
 
                         <ProgressBar
-                            android:id="@+id/progressBar"
+                            android:id="@+id/progressBar87"
                             style="?android:attr/progressBarStyleHorizontal"
                             android:layout_width="100dp"
                             android:layout_height="15dp"
@@ -381,7 +381,7 @@
                             android:textColor="#436377" />
 
                         <ImageView
-                            android:id="@+id/imageView4"
+                            android:id="@+id/imageView67"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/user"
@@ -390,7 +390,7 @@
                             android:layout_marginTop="25dp"/>
 
                         <ImageView
-                            android:id="@+id/imageView5"
+                            android:id="@+id/imageView68"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/phone_call"
@@ -399,7 +399,7 @@
                             android:layout_marginTop="25dp"/>
 
                         <ImageView
-                            android:id="@+id/imageView6"
+                            android:id="@+id/imageView69"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/locator"
@@ -419,13 +419,13 @@
                     app:cardBackgroundColor="#b8c5cd"
                     app:cardElevation="10dp"
                     app:cardCornerRadius="15dp"
-                    app:layout_constraintStart_toStartOf="@+id/constraintLayout1"
+                    app:layout_constraintStart_toStartOf="@+id/constraintLayout11"
                     app:layout_constraintTop_toTopOf="parent">
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="LU"
+                        android:text="KL"
                         android:layout_gravity="center"
                         android:textSize="28dp"
                         android:textStyle="bold"
@@ -437,7 +437,7 @@
                 android:layout_height="match_parent">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
-                    android:id="@+id/constraintLayout1"
+                    android:id="@+id/constraintLayout12"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -466,7 +466,7 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="34dp"
                             android:gravity="left"
-                            android:text="MDA"
+                            android:text="Creekside International Scho.."
                             android:textStyle="bold"
                             android:textAlignment="gravity"
                             android:textColor="#10334e"
@@ -478,13 +478,13 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="60dp"
                             android:gravity="left"
-                            android:text="Gurugram, within 35 KM"
+                            android:text="Hyderabad, within 23.6 KM"
                             android:textAlignment="gravity"
                             android:textSize="16dp"
                             android:textColor="#436377" />
 
                         <ProgressBar
-                            android:id="@+id/progressBar"
+                            android:id="@+id/progressBar86"
                             style="?android:attr/progressBarStyleHorizontal"
                             android:layout_width="100dp"
                             android:layout_height="15dp"
@@ -512,7 +512,7 @@
                             android:textColor="#436377" />
 
                         <ImageView
-                            android:id="@+id/imageView4"
+                            android:id="@+id/imageView57"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/user"
@@ -521,7 +521,7 @@
                             android:layout_marginTop="25dp"/>
 
                         <ImageView
-                            android:id="@+id/imageView5"
+                            android:id="@+id/imageView58"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/phone_call"
@@ -530,7 +530,7 @@
                             android:layout_marginTop="25dp"/>
 
                         <ImageView
-                            android:id="@+id/imageView6"
+                            android:id="@+id/imageView59"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
                             android:src="@drawable/locator"
@@ -550,13 +550,13 @@
                     app:cardBackgroundColor="#b8c5cd"
                     app:cardElevation="10dp"
                     app:cardCornerRadius="15dp"
-                    app:layout_constraintStart_toStartOf="@+id/constraintLayout1"
+                    app:layout_constraintStart_toStartOf="@+id/constraintLayout12"
                     app:layout_constraintTop_toTopOf="parent">
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="M"
+                        android:text="CS"
                         android:layout_gravity="center"
                         android:textSize="28dp"
                         android:textStyle="bold"
