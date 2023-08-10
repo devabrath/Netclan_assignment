@@ -15,12 +15,14 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 
 import com.google.android.material.navigation.NavigationView;
 import com.google.android.material.tabs.TabLayout;
 
 public class MainActivity extends AppCompatActivity {
-    ImageView refine;
+
+    LinearLayout Refine;
 
     TabLayout tabLayoutBottom;
     ViewPager viewPager;
@@ -36,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        refine = findViewById(R.id.refine);
+        Refine = findViewById(R.id.RefineLayout);
         tabLayoutBottom = findViewById(R.id.tabLayoutBottom);
         viewPager = findViewById(R.id.viewPager);
         drawerLayout = findViewById(R.id.drawerLayout);
@@ -85,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
         //drawerLayout.addDrawerListener(abd);
         //abd.syncState();
 
-        refine.setOnClickListener(new View.OnClickListener() {
+        Refine.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(getApplicationContext(), Refine.class);
