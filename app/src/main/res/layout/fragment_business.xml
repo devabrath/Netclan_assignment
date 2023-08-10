@@ -146,7 +146,7 @@
                             android:id="@+id/imageView4"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
-                            android:src="@drawable/baseline_account_circle_24"
+                            android:src="@drawable/user"
                             android:layout_gravity="left|center"
                             android:layout_marginLeft="125dp"
                             android:layout_marginTop="12dp"/>
@@ -155,7 +155,7 @@
                             android:id="@+id/imageView5"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
-                            android:src="@drawable/baseline_call_24"
+                            android:src="@drawable/phone_call"
                             android:layout_gravity="left|center"
                             android:layout_marginLeft="80dp"
                             android:layout_marginTop="12dp"/>
@@ -291,7 +291,7 @@
                             android:id="@+id/imageView4"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
-                            android:src="@drawable/baseline_account_circle_24"
+                            android:src="@drawable/user"
                             android:layout_gravity="left|center"
                             android:layout_marginLeft="125dp"
                             android:layout_marginTop="12dp"/>
@@ -300,7 +300,7 @@
                             android:id="@+id/imageView16"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
-                            android:src="@drawable/baseline_call_24"
+                            android:src="@drawable/phone_call"
                             android:layout_gravity="left|center"
                             android:layout_marginLeft="80dp"
                             android:layout_marginTop="12dp"/>
@@ -436,7 +436,7 @@
                             android:id="@+id/imageView4"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
-                            android:src="@drawable/baseline_account_circle_24"
+                            android:src="@drawable/user"
                             android:layout_gravity="left|center"
                             android:layout_marginLeft="125dp"
                             android:layout_marginTop="12dp"/>
@@ -445,7 +445,7 @@
                             android:id="@+id/imageView5"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
-                            android:src="@drawable/baseline_call_24"
+                            android:src="@drawable/phone_call"
                             android:layout_gravity="left|center"
                             android:layout_marginLeft="80dp"
                             android:layout_marginTop="12dp"/>
@@ -581,7 +581,7 @@
                             android:id="@+id/imageView4"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
-                            android:src="@drawable/baseline_account_circle_24"
+                            android:src="@drawable/user"
                             android:layout_gravity="left|center"
                             android:layout_marginLeft="125dp"
                             android:layout_marginTop="12dp"/>
@@ -590,7 +590,7 @@
                             android:id="@+id/imageView5"
                             android:layout_width="30dp"
                             android:layout_height="30dp"
-                            android:src="@drawable/baseline_call_24"
+                            android:src="@drawable/phone_call"
                             android:layout_gravity="left|center"
                             android:layout_marginLeft="80dp"
                             android:layout_marginTop="12dp"/>

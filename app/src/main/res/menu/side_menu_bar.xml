@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:id="@+id/explore"
-        android:title="Explore"/>
-    <item android:title="Network" />
-    <item android:title="Chat" />
-    <item android:title="Contacts" />
-    <item android:title="Group" />
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/editProfile"
+            android:icon="@drawable/person"
+            android:title="Edit Profile" />
+
+        <item
+            android:id="@+id/myNetwork"
+            android:icon="@drawable/group"
+            android:title="My Network" />
+
+        <item
+            android:id="@+id/ST_pro"
+            android:icon="@drawable/suitcase"
+            android:title="Switch to Business" />
+
+        <item
+            android:id="@+id/ST_merchant"
+            android:icon="@drawable/vendor"
+            android:title="Switch to Merchant" />
+
+        <item
+            android:id="@+id/dating"
+            android:icon="@drawable/dating_heart_icon"
+            android:title="Dating" />
+
+        <item
+            android:id="@+id/matrimony"
+            android:icon="@drawable/wedding_rings"
+            android:title="Matrimony" />
+
+        <item
+            android:id="@+id/buy_sell"
+            android:icon="@drawable/trading"
+            android:title="Buy and Sell" />
+
+        <item
+            android:id="@+id/jobs"
+            android:icon="@drawable/portfolio"
+            android:title="Jobs" />
+
+        <item
+            android:id="@+id/business"
+            android:icon="@drawable/business_cards"
+            android:title="Business Cards" />
+
+        <item
+            android:id="@+id/hashtags"
+            android:icon="@drawable/hashtag"
+            android:title="Hashtags" />
+
+        <item
+            android:id="@+id/notes"
+            android:icon="@drawable/notes"
+            android:title="Notes" />
+
+        <item
+            android:id="@+id/location"
+            android:icon="@drawable/pin"
+            android:title="Live Location" />
+
+    </group>
 </menu>

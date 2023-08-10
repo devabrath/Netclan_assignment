@@ -44,7 +44,7 @@
                 android:layout_height="match_parent">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
-                    android:id="@+id/constraintLayout"
+                    android:id="@+id/constraintLayout1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -73,7 +73,7 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="34dp"
                             android:gravity="left"
-                            android:text="Amit Kumar"
+                            android:text="Divyanshi P"
                             android:textStyle="bold"
                             android:textAlignment="gravity"
                             android:textColor="#10334e"
@@ -85,7 +85,7 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="60dp"
                             android:gravity="left"
-                            android:text="Hisar | Student"
+                            android:text="Hyderabad | Content writer"
                             android:textAlignment="gravity"
                             android:textSize="16dp"
                             android:textColor="#436377" />
@@ -96,7 +96,7 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="84dp"
                             android:gravity="left"
-                            android:text="Within 300-400m"
+                            android:text="Within 8.0KM"
                             android:textAlignment="gravity"
                             android:textSize="16dp"
                             android:textColor="#436377" />
@@ -108,7 +108,7 @@
                             android:layout_height="15dp"
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="112dp"
-                            android:progress="10"
+                            android:progress="80"
                             android:progressDrawable="@drawable/progressbardesign"
                             android:progressTint="#143d59"
                             android:minHeight="15dp"
@@ -122,7 +122,7 @@
                             android:layout_marginTop="132dp"
                             android:gravity="left"
                             android:textStyle="bold"
-                            android:text="Coffee | Friendship"
+                            android:text="Coffee | Business | Friendship"
                             android:maxLength="39"
                             android:textAlignment="gravity"
                             android:textColor="#10334e"
@@ -170,7 +170,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="AK"
+                        android:text="D"
                         android:layout_gravity="center"
                         android:textSize="28dp"
                         android:textStyle="bold"
@@ -211,7 +211,7 @@
                             android:layout_marginLeft="70dp"
                             android:layout_marginTop="34dp"
                             android:gravity="left"
-                            android:text="Aman Kumar"
+                            android:text="Sujal Gupta"
                             android:textStyle="bold"
                             android:textAlignment="gravity"
                             android:textColor="#10334e"

@@ -57,9 +57,9 @@ public class Refine extends AppCompatActivity {
         slider.setEnabled(true);
 
         arr.add("Available | Hey Let Us Connect");
-        arr.add("Away | Stay Discreet And Watch");
+        arr.add("Away | Stay Discrete And Watch");
         arr.add("Buzy | Do Not Distrub | Will Catch Up Later");
-        arr.add("SOS | Emergency! Need Assistance! Help");
+        arr.add("SOS | Emergency! Need Assistance! HELP");
 
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.spin_item, arr);
         adapter.setDropDownViewResource(R.layout.spin_item);
