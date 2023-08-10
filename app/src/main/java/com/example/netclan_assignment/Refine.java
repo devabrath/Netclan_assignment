@@ -2,6 +2,7 @@ package com.example.netclan_assignment;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
@@ -73,8 +74,8 @@ public class Refine extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(Refine.this, "Saved!", Toast.LENGTH_SHORT).show();
-                //Intent intent = new Intent(getApplicationContext(), this);
-                //startActivity(intent);
+                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                startActivity(intent);
             }
         });
 

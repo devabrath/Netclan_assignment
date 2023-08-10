@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
+    <item
+        android:id="@+id/explore"
+        android:title="Explore"
+        android:icon="@drawable/eye"/>
+    <item android:title="Network"
+        android:icon="@drawable/connection"/>
+    <item android:title="Chat"
+        android:icon="@drawable/chat"/>
+    <item android:title="Contacts"
+        android:icon="@drawable/contact_book"/>
+    <item android:title="Group"
+        android:icon="@drawable/hashtag"/>
 </menu>
