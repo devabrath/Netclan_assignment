@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="labelStyle" parent="Widget.MaterialComponents.Tooltip">
+        <item name="backgroundTint">#143d59</item>
+        <item name="shapeAppearanceOverlay">@style/roundCorner</item>
+        <item name="android:shape">rectangle</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="roundCorner">
+        <item name="cornerSize">1%</item>
+    </style>
+</resources>
