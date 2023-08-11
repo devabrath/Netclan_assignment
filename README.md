@@ -2,7 +2,7 @@
 
 ## ❤️ Test this App
 ## Scan QR Code 
-<img src="https://github.com/devabrath/Netclan_assignment/raw/master/Screenshots/qr_code.png"
+<img src="https://github.com/devabrath/Netclan_assignment/blob/master/Screenshorts/qr_code.png"
 width="200" height="200">
 ---------------
 ### Get Apk [Download here](https://github.com/devabrath/Netclan_assignment/raw/master/app/Netclan_assignment.apk)
