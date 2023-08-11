@@ -7,6 +7,11 @@ width="200" height="200">
 ---------------
 ### Get Apk [Download here](https://github.com/devabrath/Netclan_assignment/raw/master/app/Netclan_assignment.apk)
 ------------
+## 📸 Screenshots
+
+||||
+|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
+| ![Imgur](Screenshots/1.png) | ![Imgur](Screenshots/2.png) | ![Imgur](Screenshots/3.png) |
 
 ## License
 ```
