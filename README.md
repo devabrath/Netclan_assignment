@@ -11,7 +11,7 @@ width="200" height="200">
 
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![Imgur](Screenshots/1.png) | ![Imgur](Screenshots/2.png) | ![Imgur](Screenshots/3.png) |
+| ![Imgur](Screenshots/1.jpg) | ![Imgur](Screenshots/2.jpg) | ![Imgur](Screenshots/3.jpg) |
 
 ## License
 ```
